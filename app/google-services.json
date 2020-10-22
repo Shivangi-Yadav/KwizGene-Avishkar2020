@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "960947536339",
+    "firebase_url": "https://kwizgene.firebaseio.com",
+    "project_id": "kwizgene",
+    "storage_bucket": "kwizgene.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960947536339:android:10ede379f0ae893fb16f26",
+        "android_client_info": {
+          "package_name": "com.rachit2525.kwizgene"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960947536339-52kjne5ke4h3u803th4f2rtf7im0dei9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABtCM4zbDxx8qJ4I029lG3am5fce4d8GU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960947536339-52kjne5ke4h3u803th4f2rtf7im0dei9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
